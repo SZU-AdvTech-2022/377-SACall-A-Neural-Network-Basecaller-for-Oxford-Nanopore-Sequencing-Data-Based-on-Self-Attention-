@@ -1,0 +1,9 @@
+@article{REPO-378,
+    author = "Huang, Neng and Nie, Fan and Ni, Peng and Luo, Feng and Wang, Jianxin",
+    journal = "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+    number = "1",
+    pages = "614-623",
+    title = "{SACall: A Neural Network Basecaller for Oxford Nanopore Sequencing Data Based on Self-Attention Mechanism}",
+    volume = "19",
+    year = "2022"
+}
