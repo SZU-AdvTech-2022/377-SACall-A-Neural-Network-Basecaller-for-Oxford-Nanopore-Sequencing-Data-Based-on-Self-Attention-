@@ -1,4 +1,4 @@
-@article{REPO-378,
+@article{REPO-377,
     author = "Huang, Neng and Nie, Fan and Ni, Peng and Luo, Feng and Wang, Jianxin",
     journal = "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
     number = "1",
